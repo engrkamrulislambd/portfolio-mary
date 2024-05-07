@@ -1,0 +1,17 @@
+/*All common CSS*/
+body{
+
+}
+a{
+    text-decoration: none;
+}
+nav{
+    display: flex;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 20px;
+}
